@@ -1,0 +1,12 @@
+SQL - CRUD(insert,delete,update,select) - 원격접속(@master)
+ l
+ v
+JAVA - WEB(HTML,CSS,JSP,SERVLET) - JDBC - MyBatis(DB연동)
+l
+v
+Android - navtive app(데이터 처리가 불편, DB를 가지고 있음(SQLLITE)) , web app(가장 쉽게 접근할 수 있는 app, Jquery Mobile을 씀 동작은 android이지만 프로젝트는 web프로그램이다.), hybrid app(web app의 아들~, 서버에 connect 하기가 web app보다 까다로움, Ajax를 씀)
+
+Object ------ Relavtives 
+         ㅣ
+          v
+통신규칙(protocol) -> JPA(JAVA Persitence API, 자바라는 언어에서 OR매핑을 하려면 어떤 규칙을 지켜서 이런 매핑을 해야하느냐 라는 지침)
